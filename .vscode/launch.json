@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": false,
-      "cwd": "/workspaces/Instalaci-n-1",
-      "program": "/workspaces/Instalaci-n-1/build/Debug/outDebug",
+      "externalConsole": true,
+      "cwd": "c:/Users/Universidad/Documents/Instalaci-n-1",
+      "program": "c:/Users/Universidad/Documents/Instalaci-n-1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
